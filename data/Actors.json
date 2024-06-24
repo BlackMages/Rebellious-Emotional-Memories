@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_2","characterIndex":1,"characterName":"player_marisa%(4)","classId":1,"equips":[1,0,0,1,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kirisame Marisa","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_2","characterIndex":1,"characterName":"$player_alice%(4)","classId":1,"equips":[1,0,0,1,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alice Margatroid","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_2","characterIndex":1,"characterName":"player_marisa%(4)","classId":1,"equips":[1,0,0,1,0],"faceIndex":1,"faceName":"menufaces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kirisame Marisa","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_2","characterIndex":1,"characterName":"$player_alice%(4)","classId":1,"equips":[1,0,0,1,0],"faceIndex":0,"faceName":"menufaces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alice Margatroid","nickname":"","note":"","profile":""}
 ]
