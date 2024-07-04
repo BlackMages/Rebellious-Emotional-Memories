@@ -10389,7 +10389,8 @@ var require = (path) => {
             const x = Graphics.boxWidth / 2 - w / 2;
             const y = 0;
             const rect = new Rectangle(x, y, w, h);
-            $gameMap.showCommonMessageWindow(this._levelUpMessage, rect);
+			var n_msg = this._levelUpMessage.replace('</WORDWRAP>','')
+            $gameMap.showCommonMessageWindow(n_msg, rect);
             for (const skill of this._newSkills) {
                 yield* this.waitProcess(30);
                 const text = TextManager.obtainSkill.format(skill.name);
